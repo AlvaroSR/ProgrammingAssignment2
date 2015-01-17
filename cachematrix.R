@@ -1,3 +1,4 @@
+################################################################################
 ## These pair of functions calculate the inverse of a matrix and cache the
 ## inverse matrix for future requirements. 
 
@@ -6,7 +7,7 @@
 
 ## Álvaro Sánchez 01/17/2015
 
-
+################################################################################
 
 ## This fuction returs a list of functions to:
 ## 1. Set the matrix to compute the inverse
