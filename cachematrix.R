@@ -6,7 +6,6 @@
 ## programing course.
 
 ## Álvaro Sánchez 01/17/2015
-
 ################################################################################
 
 ## This fuction returs a list of functions to:
